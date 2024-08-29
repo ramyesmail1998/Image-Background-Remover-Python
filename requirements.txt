@@ -27,3 +27,4 @@ torchvision>=0.14.0
 typing-extensions==4.1.1
 Werkzeug==2.0.3
 setuptools>=62.0.0
+flask-cors==3.0.10
